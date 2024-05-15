@@ -56,3 +56,4 @@
 /Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/BalzorApp.pdb
 /Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/BalzorApp.genruntimeconfig.cache
 /Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/ref/BalzorApp.dll
+/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/BalzorApp.sourcelink.json
