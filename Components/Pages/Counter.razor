@@ -16,9 +16,14 @@
     <p>You win!</p>
 }
 
+<input @bind="text" />
+<button @onclick="()=> text = string.Empty">Clear</button>
+<p>@text</p>
+
 @code {
     private int currentCount = 0;
     string message = "";
+    string text = "";
     [Parameter]
     public int IncrementAmount { get; set; } = 1;
  
