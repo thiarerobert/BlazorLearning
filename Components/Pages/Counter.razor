@@ -9,9 +9,16 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<input @onchange="InputChanged" />
+<p> @message</p>
+
+@if (currentCount > 3){
+    <p>You win!</p>
+}
+
 @code {
     private int currentCount = 0;
-    
+    string message = "";
     [Parameter]
     public int IncrementAmount { get; set; } = 1;
  
@@ -20,8 +27,9 @@
     {
         currentCount+= IncrementAmount;
 
-        @if (currentCount >= 3){
-            <p>You win</p>
-        }
+    }
+
+    void InputChanged(ChangeEventArgs e){
+        message = (string)e.Value;
     }
 }
