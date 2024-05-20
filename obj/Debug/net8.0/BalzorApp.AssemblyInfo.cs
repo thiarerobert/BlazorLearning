@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BalzorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6eefacfbd43dda1bd576c4bf61213b64ac04c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41be533625d368e8c4d5d0ef40649b0336eb93f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BalzorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BalzorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

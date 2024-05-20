@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/pages/PizzaBrowser.razor]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXMvUGl6emFCcm93c2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-b22q4wf66s
