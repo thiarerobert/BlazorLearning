@@ -1,139 +1,139 @@
 {
   "Files": [
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/projectbundle/BalzorApp.bundle.scp.css",
-      "PackagePath": "staticwebassets/BalzorApp.bundle.scp.css"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BalzorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BalzorApp.bundle.scp.css"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/app.css",
-      "PackagePath": "staticwebassets/app.css"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-300.woff",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-300.woff"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-300.woff2",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-300.woff2"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff2"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-500.woff",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-500.woff"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-500.woff2",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-500.woff2"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff2"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-700.woff",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-700.woff"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-700.woff2",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-700.woff2"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff2"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-regular.woff",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-regular.woff"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-regular.woff2",
-      "PackagePath": "staticwebassets/css/font/quicksand-v8-latin-regular.woff2"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff2"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand.css",
-      "PackagePath": "staticwebassets/css/font/quicksand.css"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand.css",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand.css"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/bike.svg",
-      "PackagePath": "staticwebassets/img/bike.svg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\bike.svg",
+      "PackagePath": "staticwebassets\\img\\bike.svg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/icon-512.png",
-      "PackagePath": "staticwebassets/img/icon-512.png"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\icon-512.png",
+      "PackagePath": "staticwebassets\\img\\icon-512.png"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/logo.svg",
-      "PackagePath": "staticwebassets/img/logo.svg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizza-slice.svg",
-      "PackagePath": "staticwebassets/img/pizza-slice.svg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizza-slice.svg",
+      "PackagePath": "staticwebassets\\img\\pizza-slice.svg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/bacon.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/bacon.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\bacon.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\bacon.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/brit.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/brit.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\brit.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\brit.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/cheese.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/cheese.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\cheese.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\cheese.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/margherita.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/margherita.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\margherita.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\margherita.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/meaty.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/meaty.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\meaty.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\meaty.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/mushroom.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/mushroom.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\mushroom.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\mushroom.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/pepperoni.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/pepperoni.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\pepperoni.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\pepperoni.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/salad.jpg",
-      "PackagePath": "staticwebassets/img/pizzas/salad.jpg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\salad.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
     },
     {
-      "Id": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/user.svg",
-      "PackagePath": "staticwebassets/img/user.svg"
+      "Id": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BalzorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BalzorApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BalzorApp.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BalzorApp.props",
       "PackagePath": "build\\BalzorApp.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BalzorApp.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BalzorApp.props",
       "PackagePath": "buildMultiTargeting\\BalzorApp.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BalzorApp.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BalzorApp.props",
       "PackagePath": "buildTransitive\\BalzorApp.props"
     }
   ],
