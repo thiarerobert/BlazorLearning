@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d2D+TOWoxC94Nne5bkpWU9NNr+QGcdfJ0hIVgvUUKSw=",
+  "Hash": "k7hHqf+m0t7II44Ne7ketiuLDoS5EF/ooNQ2UHF3nC0=",
   "Source": "BalzorApp",
   "BasePath": "_content/BalzorApp",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BalzorApp\\wwwroot",
+      "Name": "BalzorApp/wwwroot",
       "Source": "BalzorApp",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BalzorApp.styles.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/bundle/BalzorApp.styles.css",
       "SourceId": "BalzorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "BalzorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BalzorApp.styles.css"
+      "OriginalItemSpec": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/bundle/BalzorApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BalzorApp.bundle.scp.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/projectbundle/BalzorApp.bundle.scp.css",
       "SourceId": "BalzorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "BalzorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BalzorApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/Debug/net8.0/scopedcss/projectbundle/BalzorApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\app.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/app.css",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.css"
+      "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-300.woff",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-300.woff",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-300.woff"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-300.woff"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-300.woff2",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-300.woff2",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-300.woff2"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-300.woff2"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-500.woff",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-500.woff",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-500.woff"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-500.woff"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-500.woff2",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-500.woff2",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-500.woff2"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-500.woff2"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-700.woff",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-700.woff",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-700.woff"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-700.woff"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-700.woff2",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-700.woff2",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-700.woff2"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-700.woff2"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-regular.woff",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-regular.woff",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-regular.woff"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand-v8-latin-regular.woff2",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand-v8-latin-regular.woff2",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand-v8-latin-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\font\\quicksand.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/font/quicksand.css",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/font/quicksand.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font\\quicksand.css"
+      "OriginalItemSpec": "wwwroot/css/font/quicksand.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\css\\site.css",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/css/site.css",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\favicon.png",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/favicon.png",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.png"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\bike.svg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/bike.svg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/bike.svg",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\bike.svg"
+      "OriginalItemSpec": "wwwroot/img/bike.svg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\icon-512.png",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/icon-512.png",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/icon-512.png",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\icon-512.png"
+      "OriginalItemSpec": "wwwroot/img/icon-512.png"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\logo.svg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/logo.svg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/logo.svg",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo.svg"
+      "OriginalItemSpec": "wwwroot/img/logo.svg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizza-slice.svg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizza-slice.svg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizza-slice.svg",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizza-slice.svg"
+      "OriginalItemSpec": "wwwroot/img/pizza-slice.svg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\bacon.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/bacon.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/bacon.jpg",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\bacon.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/bacon.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\brit.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/brit.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/brit.jpg",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\brit.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/brit.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\cheese.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/cheese.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/cheese.jpg",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\cheese.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/cheese.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\margherita.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/margherita.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/margherita.jpg",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\margherita.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/margherita.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\meaty.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/meaty.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/meaty.jpg",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\meaty.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/meaty.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\mushroom.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/mushroom.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/mushroom.jpg",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\mushroom.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/mushroom.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\pepperoni.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/pepperoni.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/pepperoni.jpg",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\pepperoni.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/pepperoni.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\pizzas\\salad.jpg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/pizzas/salad.jpg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/pizzas/salad.jpg",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pizzas\\salad.jpg"
+      "OriginalItemSpec": "wwwroot/img/pizzas/salad.jpg"
     },
     {
-      "Identity": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\img\\user.svg",
+      "Identity": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/img/user.svg",
       "SourceId": "BalzorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\wwwroot\\",
+      "ContentRoot": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/wwwroot/",
       "BasePath": "_content/BalzorApp",
       "RelativePath": "img/user.svg",
       "AssetKind": "All",
@@ -603,7 +603,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\user.svg"
+      "OriginalItemSpec": "wwwroot/img/user.svg"
     }
   ]
 }

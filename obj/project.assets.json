@@ -8,26 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\thir2608\\.nuget\\packages\\": {}
+    "/Users/robertthiare/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\BalzorApp.csproj",
+      "projectUniqueName": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/BalzorApp.csproj",
       "projectName": "BalzorApp",
-      "projectPath": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\BalzorApp.csproj",
-      "packagesPath": "C:\\Users\\thir2608\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thir2608\\Desktop\\testCode\\BlazorLearning\\obj\\",
+      "projectPath": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/BalzorApp.csproj",
+      "packagesPath": "/Users/robertthiare/.nuget/packages/",
+      "outputPath": "/Users/robertthiare/Desktop/BalzorApp/BlazorLearning/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thir2608\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/robertthiare/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
