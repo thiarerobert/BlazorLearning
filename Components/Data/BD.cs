@@ -6,4 +6,10 @@ public class PizzaService
     {
     // Call your data access technology here
     }
+
+    private Pizza[] todayPizzas;
+
+    protected override async Task OnIntializedAsync(){
+        todayPizzas = await GetPizzasAsync();
+    }
 }
